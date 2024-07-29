@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.4.1" class="java.beans.XMLDecoder">
+ <array class="Game.Level" length="5">
+  <void index="0">
+   <object class="Game.Level">
+    <void property="HPPool">
+     <int>3</int>
+    </void>
+    <void property="cannonPositions">
+     <array class="Utilities.Vector2D" length="2">
+      <void index="0">
+       <object class="Utilities.Vector2D" id="Vector2D0">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D0"/>
+          <double>320.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D0"/>
+          <double>360.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="1">
+       <object class="Utilities.Vector2D" id="Vector2D1">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D1"/>
+          <double>960.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D1"/>
+          <double>360.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="Game.Level">
+    <void property="HPPool">
+     <int>5</int>
+    </void>
+    <void property="cannonPositions">
+     <array class="Utilities.Vector2D" length="3">
+      <void index="0">
+       <object class="Utilities.Vector2D" id="Vector2D2">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D2"/>
+          <double>640.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D2"/>
+          <double>160.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="1">
+       <object class="Utilities.Vector2D" id="Vector2D3">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D3"/>
+          <double>450.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D3"/>
+          <double>480.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="2">
+       <object class="Utilities.Vector2D" id="Vector2D4">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D4"/>
+          <double>830.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D4"/>
+          <double>480.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+  <void index="2">
+   <object class="Game.Level">
+    <void property="HPPool">
+     <int>9</int>
+    </void>
+    <void property="cannonPositions">
+     <array class="Utilities.Vector2D" length="4">
+      <void index="0">
+       <object class="Utilities.Vector2D" id="Vector2D5">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D5"/>
+          <double>240.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D5"/>
+          <double>360.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="1">
+       <object class="Utilities.Vector2D" id="Vector2D6">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D6"/>
+          <double>400.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D6"/>
+          <double>360.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="2">
+       <object class="Utilities.Vector2D" id="Vector2D7">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D7"/>
+          <double>840.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D7"/>
+          <double>360.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="3">
+       <object class="Utilities.Vector2D" id="Vector2D8">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D8"/>
+          <double>1040.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D8"/>
+          <double>360.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+  <void index="3">
+   <object class="Game.Level">
+    <void property="HPPool">
+     <int>12</int>
+    </void>
+    <void property="cannonPositions">
+     <array class="Utilities.Vector2D" length="5">
+      <void index="0">
+       <object class="Utilities.Vector2D" id="Vector2D9">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D9"/>
+          <double>80.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D9"/>
+          <double>80.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="1">
+       <object class="Utilities.Vector2D" id="Vector2D10">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D10"/>
+          <double>1200.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D10"/>
+          <double>80.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="2">
+       <object class="Utilities.Vector2D" id="Vector2D11">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D11"/>
+          <double>640.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D11"/>
+          <double>240.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="3">
+       <object class="Utilities.Vector2D" id="Vector2D12">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D12"/>
+          <double>80.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D12"/>
+          <double>640.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="4">
+       <object class="Utilities.Vector2D" id="Vector2D13">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D13"/>
+          <double>1200.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D13"/>
+          <double>640.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+  <void index="4">
+   <object class="Game.Level">
+    <void property="HPPool">
+     <int>28</int>
+    </void>
+    <void property="cannonPositions">
+     <array class="Utilities.Vector2D" length="10">
+      <void index="0">
+       <object class="Utilities.Vector2D" id="Vector2D14">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D14"/>
+          <double>256.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D14"/>
+          <double>180.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="1">
+       <object class="Utilities.Vector2D" id="Vector2D15">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D15"/>
+          <double>1024.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D15"/>
+          <double>180.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="2">
+       <object class="Utilities.Vector2D" id="Vector2D16">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D16"/>
+          <double>320.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D16"/>
+          <double>240.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="3">
+       <object class="Utilities.Vector2D" id="Vector2D17">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D17"/>
+          <double>960.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D17"/>
+          <double>240.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="4">
+       <object class="Utilities.Vector2D" id="Vector2D18">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D18"/>
+          <double>288.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D18"/>
+          <double>360.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="5">
+       <object class="Utilities.Vector2D" id="Vector2D19">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D19"/>
+          <double>992.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D19"/>
+          <double>360.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="6">
+       <object class="Utilities.Vector2D" id="Vector2D20">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D20"/>
+          <double>320.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D20"/>
+          <double>480.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="7">
+       <object class="Utilities.Vector2D" id="Vector2D21">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D21"/>
+          <double>960.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D21"/>
+          <double>480.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="8">
+       <object class="Utilities.Vector2D" id="Vector2D22">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D22"/>
+          <double>256.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D22"/>
+          <double>540.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+      <void index="9">
+       <object class="Utilities.Vector2D" id="Vector2D23">
+        <void class="Utilities.Vector2D" method="getField">
+         <string>x</string>
+         <void method="set">
+          <object idref="Vector2D23"/>
+          <double>1024.0</double>
+         </void>
+        </void>
+        <void class="Utilities.Vector2D" method="getField">
+         <string>y</string>
+         <void method="set">
+          <object idref="Vector2D23"/>
+          <double>540.0</double>
+         </void>
+        </void>
+       </object>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>
